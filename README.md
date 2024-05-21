@@ -84,22 +84,21 @@
 ---
 
 ### 🌐 Links
-<a href="https://www.tayalarajan.com/">
+<a href="https://www.tayalarajan.com/" target="_blank">
   <img src="https://static-00.iconduck.com/assets.00/globe-icon-2048x2048-la3vxx3a.png" height="70" align="center" alt="Portfolio">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Tayalarajan/">
+<a href="https://leetcode.com/u/Tayalarajan/" target="_blank">
   <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" height="70" align="center" alt="LeetCode">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tayala-rajan/">
+<a href="https://www.linkedin.com/in/tayala-rajan/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="70" align="center" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/tayalarajan">
+<a href="https://www.kaggle.com/tayalarajan" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Kaggle_Logo.svg" height="70" align="center" alt="Kaggle">
 </a>
-
 
 ---
 
